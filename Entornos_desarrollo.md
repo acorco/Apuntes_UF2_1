@@ -8,7 +8,7 @@ lo que queríamos que hiciera desde un inicio, ni más ni menos. Para llevar a c
 
 ##### FRAMEWORK
 
-"Framework", en español marco de trabajo se compone por las mejores prácticas, unas herramientas y unas bibliotecas. /
+"Framework", en español marco de trabajo se compone por las mejores prácticas, unas herramientas y unas bibliotecas.  
 En definitiva es un esquema o patrón.
 
 
