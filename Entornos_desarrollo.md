@@ -60,7 +60,7 @@ A pesar de que hay todas esas, solo estudiaremos las pruebas unitarias a fondo.
 - Pruebas de portabilidad
 
 ##### MECANISMOS DE PRUEBA
-Hay dos principales mecanismos de pruebas. Los manuales y los automáticos.
+Hay dos principales mecanismos de pruebas. Los manuales y los automáticos.  
 En los **manuales** se requiere de una persona que vaya introduciendo manualmente los datos para  
 realizar dichas pruebas.  
 En los **mecanismos automáticos** se ejecuta un software ya desarrollado y este  
