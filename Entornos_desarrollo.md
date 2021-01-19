@@ -72,3 +72,51 @@ con los resultados que se esperaban en un principio.
 Cuando depuramos lo que hacemos es marcar un punto de ruptura (punto donde comenzará a depurar)  
 y vamos avanzando línea por línea nuestro código analizando el valor de cada variables en el punto  
 que nos encontramos.
+
+### INTEGRACIÓN 
+
+##### FORMAS DE INTEGRACIÓN
+
+Existen 4 diferentes formas de integración pero no vamos a profundizar  
+en ellas.  
+Las formas son las siguientes:
+
+- Integración Big bang
+- Integración Descendente
+- Integración Ascendente
+- Integración Cotinua
+
+##### SERVIDORES DE INTEGRACIÓN CONTINUA
+
+- Jenkins
+- Bamboo
+- TravisCI
+- CircleCI
+
+##### COBERTURA DEL CÓDIGO
+
+La cobertura del código se refiere al porcentaje del código fuente  
+del que se han hecho pruebas de una aplicación.  
+Por tanto, cuanto más cobertura de código haya tenido una aplicación  
+quiere decir que ha sido probado más y tiene menos probabilidad  
+de que hayan errores (aunque pueden haberlos, lógicamente).
+
+### CALIDAD DEL CÓDIGO
+
+##### CONTROL DE CALIDAD
+
+El control de calidad se lleva a cabo para saber cómo  
+de bueno es una aplicación. Para llevar a cabo dicho control  
+se hace mediante pruebas, que determinaran si el código es mejor o peor.
+
+##### CALIDAD DEL PROCESO/PRODUCTO
+
+- QA (Quality Assurance) es, en breves palabras, asegurar el  
+correcto funcionamiento de la aplicación que se está o se ha desarrollado.  
+
+- QC (Quality Control) incluye las actividades necesarias para  
+asegurar que nuestro producto (en este caso una aplicación)  
+cumple con unos requisitos mínimos de calidad.
+
+##### FACTORES DE CALIDAD (I)
+
