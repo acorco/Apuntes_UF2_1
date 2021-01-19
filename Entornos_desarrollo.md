@@ -122,6 +122,6 @@ cumple con unos requisitos mínimos de calidad.
 
 El modelo de calidad de McCall define 11 factores de calidad. Los factores se   agrupan en 3 ámbitos:
 
-**Operación del producto**:
-**Revisión del producto**:
-**Transición del producto**:
+**Operación del producto**
+**Revisión del producto**
+**Transición del producto**
